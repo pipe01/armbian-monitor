@@ -3,6 +3,7 @@ A remote system monitor over SSH for Armbian. To set up, create a `config.txt` f
 
 ```
 Armbian host IP
+SSH username
 SSH password
 (Optional) Root password
 ```
@@ -11,6 +12,7 @@ e.g.:
 
 ```
 192.168.1.45
+pipe
 hunter2
 root2
 ```
